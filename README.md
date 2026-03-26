@@ -11,10 +11,29 @@ To understand how discounting impacts profit and identify which product categori
 - DAX
 
 ## Project Workflow
-- Loaded and explored the dataset using Python
-- Cleaned and transformed data (dates, profit margin)
-- Performed analysis on category, region, and segment
-- Built interactive Power BI dashboard
+1. Data Loading  
+   Loaded the Superstore dataset using Pandas for analysis
+
+2. Data Understanding  
+   Explored dataset structure, checked data types, missing values, and duplicates
+
+3. Data Cleaning  
+   Converted Order Date to datetime format for time-based analysis
+
+4. Feature Engineering  
+   Created Month, Year, and Profit Margin columns to enhance analysis
+
+5. Exploratory Data Analysis  
+   Analyzed sales and profit across categories, regions, and segments
+
+6. Profitability Analysis  
+   Identified high-sales but low-profit products to detect profit leakage
+
+7. Discount Impact Analysis  
+   Evaluated how discount levels affect profitability
+
+8. Visualization  
+   Built an interactive Power BI dashboard with KPIs, charts, and filters
 
 ## Key Insights
 - Furniture category generates high sales but significantly lower profit, indicating inefficiency
