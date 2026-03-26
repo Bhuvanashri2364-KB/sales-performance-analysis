@@ -34,7 +34,7 @@ To understand how discounting impacts profit and identify which product categori
 - data/superstore.csv
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## Conclusion
 Business profitability is not driven by sales alone. Discount strategy plays a major role, especially in underperforming categories like Furniture.
