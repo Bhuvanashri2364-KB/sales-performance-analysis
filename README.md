@@ -17,9 +17,11 @@ To understand how discounting impacts profit and identify which product categori
 - Built interactive Power BI dashboard
 
 ## Key Insights
-- Furniture has high sales but low profit
-- Higher discounts reduce profitability
-- Technology category performs best in profit efficiency
+- Furniture category generates high sales but significantly lower profit, indicating inefficiency
+- Higher discount levels are negatively correlated with profit, leading to margin reduction
+- Technology category demonstrates strong profitability with relatively lower discount dependency
+- Profitability varies across regions, suggesting potential geographic performance differences
+- Certain high-sales products contribute low or negative profit, highlighting profit leakage
 
 ## Dashboard Features
 - KPI Cards (Sales, Profit, Discount, Margin)
