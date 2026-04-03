@@ -1,6 +1,43 @@
 # Sales Performance Analysis – Retail Superstore
 
-**End-to-end data analysis project identifying profit leakage and optimizing discount strategies using Python and Power BI.**
+## 📊 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+## 📌 Executive Summary
+
+This project analyzes retail sales data to identify revenue drivers, profit leakage, and category-level performance trends. The goal is to uncover inefficiencies in discounting strategies and optimize profitability across product categories.
+
+Key findings:
+
+• Furniture category generates high sales but significantly lower profit, indicating margin inefficiency  
+• Higher discount levels are negatively correlated with profit, leading to revenue loss  
+• Technology category shows strong profitability with lower dependency on discounts  
+• Certain high-sales products contribute low or negative profit, highlighting profit leakage  
+
+Business impact:
+
+• Helps optimize discount strategies to improve margins  
+• Identifies underperforming categories and products  
+• Supports data-driven pricing and promotion decisions  
+
+## 💼 Business Problem
+
+Retail businesses often focus on increasing sales volume without fully understanding profitability drivers. High discounts and poor pricing strategies can lead to revenue growth but reduced margins.
+
+This project aims to:
+
+• Identify which categories and products drive profit vs loss  
+• Analyze the impact of discounting on profitability  
+• Detect inefficiencies in pricing and sales strategy  
+
+## 🚀 Project Overview
+
+This is an end-to-end retail sales analysis project using Python, SQL, and Power BI.
+
+The analysis focuses on understanding category-level performance, discount impact, and profit distribution across products and regions.
+
+The goal is to move beyond sales tracking and enable profitability-driven decision making.
 
 ## Objective
 
@@ -81,12 +118,31 @@ This project analyzes sales data to identify profit leakage, evaluate the impact
 - Sales_Performance_Dashboard.pbix
 - dashboard_preview.png
 
-## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+## 📊 Visualization Summary
 
-## Business Impact
+The Power BI dashboard highlights key performance metrics including sales, profit, and discount impact across categories and regions.
 
-This analysis provides actionable insights to improve profitability by optimizing discount strategies, identifying underperforming products, and focusing on high-margin categories. These findings can help businesses make data-driven pricing and inventory decisions.
+Key visuals include:
+
+• Sales vs Profit by Category  
+• Discount vs Profit relationship  
+• Regional performance comparison  
+• Product-level profitability analysis  
+
+## 💡 Business Impact
+
+• Enables optimization of discount strategies to protect margins  
+• Helps identify loss-making products and categories  
+• Supports better pricing decisions based on profitability  
+• Improves overall revenue quality, not just revenue quantity  
+
+## 🧠 Recommendations
+
+• Reduce excessive discounting in low-margin categories like Furniture  
+• Focus on expanding high-profit categories such as Technology  
+• Identify and reprice loss-making products  
+• Implement controlled discount strategies based on profitability thresholds  
+• Standardize pricing strategies across regions to reduce inconsistencies  
 
 ## Conclusion
 Business profitability is not driven by sales alone. Discount strategy plays a major role, especially in underperforming categories like Furniture.
