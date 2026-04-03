@@ -4,6 +4,8 @@
 
 ![Dashboard](images/dashboard_preview.png)
 
+> 📌 Built using Power BI with interactive filters and drill-down capabilities
+
 ---
 
 ## 📌 Executive Summary
@@ -147,7 +149,7 @@ Key visuals include:
 * `python/sales_analysis.py`
 * `data/superstore.csv`
 * `Sales_Performance_Dashboard.pbix`
-* `images/dashboard.png`
+* `images/dashboard_preview.png`
 
 ---
 
@@ -163,3 +165,4 @@ Business profitability is not driven by sales alone. Discount strategy plays a m
 * Discount strategies must be optimized to protect margins
 * Data visualization plays a crucial role in uncovering insights
 * End-to-end analytics involves data cleaning, analysis, and storytelling
+The project demonstrates how data-driven insights can directly influence pricing, discount strategies, and overall business profitability.
