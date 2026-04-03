@@ -1,4 +1,4 @@
-# 📊 Sales & Profitability Analysis — Identifying Revenue Leakage in Retail
+# 📊 Retail Profitability Analysis — Detecting Revenue Leakage & Optimizing Pricing
 
 ## 📊 Dashboard Preview
 📌 This dashboard enables decision-makers to identify profit leakage and optimize pricing strategies in real time.
