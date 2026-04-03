@@ -45,12 +45,22 @@ This project analyzes sales data to identify profit leakage, evaluate the impact
 8. Visualization  
    Built an interactive Power BI dashboard with KPIs, charts, and filters
 
-## Key Insights
-- Furniture category generates high sales but significantly lower profit, indicating inefficiency
-- Higher discount levels are negatively correlated with profit, leading to margin reduction
-- Technology category demonstrates strong profitability with relatively lower discount dependency
-- Profitability varies across regions, suggesting potential geographic performance differences
-- Certain high-sales products contribute low or negative profit, highlighting profit leakage
+## Key Insights & Recommendations
+
+* **Furniture category shows high sales but low profit**, indicating inefficient pricing or high discount dependency.
+  → Recommendation: Reduce discount levels or optimize pricing strategy for this category.
+
+* **Higher discount levels are negatively correlated with profit**, leading to margin erosion.
+  → Recommendation: Implement controlled discount strategies and monitor discount thresholds.
+
+* **Technology category maintains strong profitability with lower discount dependency**, making it a high-value segment.
+  → Recommendation: Focus marketing and inventory investments on high-margin categories.
+
+* **Regional profitability varies significantly**, suggesting uneven market performance.
+  → Recommendation: Investigate underperforming regions and adjust pricing or logistics strategies.
+
+* **Some high-sales products generate little or negative profit**, highlighting profit leakage.
+  → Recommendation: Identify and re-evaluate pricing or discontinue low-margin products.
 
 ## Dashboard Features
 - KPI Cards (Sales, Profit, Discount, Margin)
@@ -66,6 +76,10 @@ This project analyzes sales data to identify profit leakage, evaluate the impact
 
 ## Dashboard Preview
 ![Dashboard](dashboard_preview.png)
+
+## Business Impact
+
+This analysis provides actionable insights to improve profitability by optimizing discount strategies, identifying underperforming products, and focusing on high-margin categories. These findings can help businesses make data-driven pricing and inventory decisions.
 
 ## Conclusion
 Business profitability is not driven by sales alone. Discount strategy plays a major role, especially in underperforming categories like Furniture.
