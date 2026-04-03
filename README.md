@@ -165,4 +165,5 @@ Business profitability is not driven by sales alone. Discount strategy plays a m
 * Discount strategies must be optimized to protect margins
 * Data visualization plays a crucial role in uncovering insights
 * End-to-end analytics involves data cleaning, analysis, and storytelling
+  
 The project demonstrates how data-driven insights can directly influence pricing, discount strategies, and overall business profitability.
