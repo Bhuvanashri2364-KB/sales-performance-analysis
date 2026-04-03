@@ -1,6 +1,7 @@
 # 📊 Sales & Profitability Analysis — Identifying Revenue Leakage in Retail
 
 ## 📊 Dashboard Preview
+📌 This dashboard enables decision-makers to identify profit leakage and optimize pricing strategies in real time.
 
 ![Dashboard](images/dashboard_preview.png)
 
@@ -10,11 +11,11 @@
 
 ## 📌 Executive Summary
 
-This project analyzes retail sales data to identify revenue drivers, profit leakage, and category-level performance trends. The goal is to uncover inefficiencies in discounting strategies and optimize profitability across product categories.
+This project analyzes retail sales data to uncover revenue leakage and identify key drivers of profitability.
 
-Key findings reveal that certain high-revenue categories contribute disproportionately low profit due to excessive discounting and poor pricing strategies.
+The analysis reveals that high-revenue categories often generate low or negative profit due to excessive discounting and inefficient pricing strategies.
 
-This analysis shifts focus from revenue growth to profitability optimization, enabling more sustainable business decisions.
+By shifting focus from sales volume to profit optimization, this project provides actionable insights to improve margins and drive sustainable business growth.
 
 ---
 
@@ -58,7 +59,7 @@ The goal is to move beyond sales tracking and enable profitability-driven decisi
 
 ## 📊 Visualization Summary
 
-The Power BI dashboard highlights key performance metrics including sales, profit, and discount impact across categories and regions.
+The Power BI dashboard provides a comprehensive view of sales performance, profitability, and discount impact across categories, products, and regions.
 
 Key visuals include:
 
@@ -112,7 +113,8 @@ Key visuals include:
 * Engineered features such as profit margin and time-based attributes
 * Conducted exploratory data analysis to identify trends and anomalies
 * Built calculated measures in Power BI using DAX
-* Designed an interactive dashboard with filters and drill-down capability
+* Designed an interactive Power BI dashboard with dynamic filters and drill-down capabilities
+
 
 ---
 
