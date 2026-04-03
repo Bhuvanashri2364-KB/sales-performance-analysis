@@ -20,6 +20,14 @@ This project analyzes sales data to identify profit leakage, evaluate the impact
 - Power BI
 - DAX
 
+## Technical Highlights
+
+* Performed data cleaning and preprocessing using Pandas (handling missing values, type conversions)
+* Engineered features such as profit margin and time-based attributes (month, year)
+* Conducted exploratory data analysis (EDA) to identify trends and anomalies
+* Built calculated measures in Power BI using DAX for KPIs
+* Designed an interactive dashboard with filters and drill-down capabilities
+
 ## Project Workflow
 1. Data Loading  
    Loaded the Superstore dataset using Pandas for analysis
@@ -46,12 +54,11 @@ This project analyzes sales data to identify profit leakage, evaluate the impact
    Built an interactive Power BI dashboard with KPIs, charts, and filters
 
 ## Key Insights & Recommendations
+* **Furniture category generates high sales (~30% of total revenue) but contributes minimal profit (~5%)**, indicating inefficient pricing or excessive discounting.
+  → Recommendation: Reduce discount levels or revise pricing strategy for this category.
 
-* **Furniture category shows high sales but low profit**, indicating inefficient pricing or high discount dependency.
-  → Recommendation: Reduce discount levels or optimize pricing strategy for this category.
-
-* **Higher discount levels are negatively correlated with profit**, leading to margin erosion.
-  → Recommendation: Implement controlled discount strategies and monitor discount thresholds.
+* **Discounts above ~15% significantly reduce profit margins**, showing a strong negative correlation between discount and profitability.
+  → Recommendation: Introduce discount caps and monitor margin impact.
 
 * **Technology category maintains strong profitability with lower discount dependency**, making it a high-value segment.
   → Recommendation: Focus marketing and inventory investments on high-margin categories.
@@ -83,3 +90,11 @@ This analysis provides actionable insights to improve profitability by optimizin
 
 ## Conclusion
 Business profitability is not driven by sales alone. Discount strategy plays a major role, especially in underperforming categories like Furniture.
+
+## Key Learnings
+
+* Sales growth does not always translate to profitability
+* Discount strategies must be optimized to protect margins
+* Data visualization plays a crucial role in uncovering business insights
+* End-to-end analytics involves data cleaning, analysis, and storytelling
+
