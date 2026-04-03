@@ -1,9 +1,19 @@
-# Sales Performance Dashboard – Superstore Analysis
+# Sales Performance Analysis – Retail Superstore
 
 This project analyzes retail sales data using Python and Power BI to uncover insights related to sales performance, discounting, and profitability.
 
 ## Objective
-To understand how discounting impacts profit and identify which product categories are performing efficiently.
+
+Retail businesses often struggle with balancing sales growth and profitability, especially when heavy discounting is involved.
+
+This project analyzes sales data to identify profit leakage, evaluate the impact of discounts, and uncover category-level performance trends that can support better pricing and inventory decisions.
+
+## Key Business Questions
+
+* Which product categories generate high sales but low profit?
+* How do discounts impact profitability?
+* Which regions contribute most to profit and revenue?
+* Are there products driving revenue but causing losses?
 
 ## Tools Used
 - Python (Pandas)
