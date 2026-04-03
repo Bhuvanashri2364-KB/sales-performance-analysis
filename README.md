@@ -71,11 +71,11 @@ Key visuals include:
 
 ## 🎯 Key Insights
 
-* Furniture category contributes ~30% of total revenue but only ~5% of total profit, indicating severe margin inefficiency
-* Discounts above ~15% significantly reduce profit margins, showing strong negative correlation
-* Technology category maintains high profitability with lower dependency on discounts
-* Regional profitability varies significantly, indicating inconsistent market performance
-* Several high-sales products generate little or negative profit, highlighting revenue leakage
+- The Furniture category generates high revenue but consistently low or negative profit, indicating severe margin inefficiency  
+- High discount levels are directly impacting profitability, revealing a trade-off between sales volume and margin sustainability  
+- The Technology category maintains strong profitability with lower dependency on discounts, making it the most efficient revenue driver  
+- Several high-sales products contribute minimal or negative profit, highlighting hidden profit leakage at the product level  
+- Regional performance varies significantly, suggesting operational inefficiencies and uneven market strategies  
 
 ---
 
@@ -88,13 +88,13 @@ Key visuals include:
 
 ---
 
-## 🧠 Recommendations
+## 💡 Recommendations
 
-* Reduce excessive discounting in low-margin categories like Furniture
-* Focus on expanding high-profit categories such as Technology
-* Identify and reprice or remove loss-making products
-* Implement discount thresholds based on profitability
-* Standardize pricing strategies across regions
+- Reduce excessive discounting, especially in low-margin categories like Furniture  
+- Reevaluate pricing and supply chain costs for underperforming product categories  
+- Focus marketing and inventory efforts on high-profit categories like Technology  
+- Identify and phase out or reprice loss-making products  
+- Optimize regional strategies by investing more in high-performing markets and fixing underperforming ones  
 
 ---
 
