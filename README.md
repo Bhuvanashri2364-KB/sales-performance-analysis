@@ -1,6 +1,6 @@
 # Sales Performance Analysis – Retail Superstore
 
-This project analyzes retail sales data using Python and Power BI to uncover insights related to sales performance, discounting, and profitability.
+**End-to-end data analysis project identifying profit leakage and optimizing discount strategies using Python and Power BI.**
 
 ## Objective
 
